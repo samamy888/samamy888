@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm wenhui_xiao</h1>
-<h3 align="center">A passionate full-stackd eveloper from taiwan</h3>
+<h3 align="center">A passionate full-stack developer from Taiwan</h3>
 
 - 🔭 I’m currently working on [everrich](https://www.everrich-group.com/)
 
